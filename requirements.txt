@@ -1,1 +1,2 @@
-# system must contain minimum of 8 gb ram
+# system must contain minimum of 8 gb ramgit 
+# rf5rf5rf
