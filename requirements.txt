@@ -1,0 +1,1 @@
+# system must contain minimum of 8 gb ram
